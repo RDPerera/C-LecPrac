@@ -1,0 +1,27 @@
+a
+===========================
+n Vehicle constructor
+In HeavyVehicle constructor
+In Bus constructor
+In Vehicle constructor
+In HeavyVehicle constructor
+In Bus constructor
+members of Bus
+members of Bus
+
+
+
+b
+===========================
+Wrong1000
+Wrong1069
+Wrong1098
+Correct1089
+
+
+c
+===========================
+ Assignment operator invoked
+ Assignment operator invoked
+ a2=37
+ a3=37
